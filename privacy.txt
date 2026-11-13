@@ -1,0 +1,28 @@
+LicenseQuest Privacy Policy
+Effective November 13, 2026
+
+LicenseQuest is provided by Robert Prendergast. Contact: bprendie@icloud.com.
+
+Your collection
+LicenseQuest records the state, province or other jurisdiction you choose, not a vehicle's registration number, photograph, owner or identity. Collections, trip records, scores, roadside finds and preferences are stored on your device. The app has no account, advertising, analytics SDK, tracking or developer-operated data server. Your operating system's device backup settings may include local app data.
+
+Optional location
+With permission, location suggests a starting city and can estimate mileage when you enable GPS distance. Coarse home and trip anchors are saved for regional scoring. The app does not save a route trail. Background location is used only when you explicitly enable background mileage for a trip. You can stop a trip or revoke location permission in system Settings. City lookup uses Apple's geocoding service.
+
+Optional speech
+Tapping Talk requests microphone and speech permission. On-device recognition is requested where supported; otherwise Apple's speech service may process audio. LicenseQuest does not save audio recordings or send them to the developer. Confirmed region selections become local collection entries. Touch controls work without speech permission.
+
+Optional vehicle link
+Bluetooth permission enables a connection to a BLE vehicle adapter you select. Adapter configuration, live vehicle telemetry and trip distance are processed locally. LicenseQuest does not upload vehicle telemetry to the developer. Compatibility depends on the adapter and vehicle.
+
+Optional weather
+When radar is enabled, the app requests weather images from Environment and Climate Change Canada's GeoMet service. The service receives your IP address and the requested map bounds and times. Bounds can reflect your selected home, trip start or explored area. The app caches weather data on your device and does not attach an account or advertising identifier. Weather and Apple services operate under their own privacy policies.
+
+Support
+If you email support, we receive the email address, message and any attachments you choose to send and use them to answer your request. Avoid sending private location or vehicle details unless needed. Request removal of support correspondence by emailing the same address, subject to necessary record retention.
+
+Control and retention
+App records remain local until you remove them or remove the app's data. Undo controls remove individual eligible sightings or finds from active progress; history can retain reversal records. Removing the app can remove its local records, and device backups may retain earlier copies. No developer account is created and there is no developer-side collection database to delete.
+
+Changes
+Updates to this policy will appear here with a new effective date. Questions: bprendie@icloud.com.
