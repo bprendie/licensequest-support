@@ -1,22 +1,25 @@
-LicenseQuest Privacy Policy
-Effective November 13, 2026
+Decker’s LicenseQuest Privacy Policy
+Effective November 14, 2026
 
-LicenseQuest is provided by Robert Prendergast. Contact: bprendie@icloud.com.
+Decker’s LicenseQuest (displayed as LicenseQuest in some versions) is provided by Robert Prendergast. Contact: bprendie@icloud.com.
 
 Your collection
-LicenseQuest records the state, province or other jurisdiction you choose, not a vehicle's registration number, photograph, owner or identity. Collections, trip records, scores, roadside finds and preferences are stored on your device. The app has no account, advertising, analytics SDK, tracking or developer-operated data server. Your operating system's device backup settings may include local app data.
+LicenseQuest records the state, province or other jurisdiction you choose, not a vehicle's registration number, photograph, owner or identity. Collections, trip records, scores, roadside finds and preferences are stored on your device. The app has no account, advertising, analytics SDK, tracking or developer-operated data server. iOS device backups may include local app data according to your settings. The Android app disables operating-system app backup; uninstalling it can remove your collection.
 
 Optional location
-With permission, location suggests a starting city and can estimate mileage when you enable GPS distance. Coarse home and trip anchors are saved for regional scoring. The app does not save a route trail. Background location is used only when you explicitly enable background mileage for a trip. You can stop a trip or revoke location permission in system Settings. City lookup uses Apple's geocoding service.
+With permission, location suggests a starting city and can estimate mileage when you enable GPS distance. Coarse home and trip anchors are saved for regional scoring. The app does not save a route trail. Background location is used only when you explicitly enable background mileage for a trip. You can stop a trip or revoke location permission in system Settings. City lookup uses Apple’s geocoding service on iOS and the device’s Android geocoding service on Android. To suggest a city, the geocoding provider can receive your precise location; a manual city search sends the search text. Exact locations are not sent to the developer. Mileage calculations stay on the device.
 
 Optional speech
-Tapping Talk requests microphone and speech permission. On-device recognition is requested where supported; otherwise Apple's speech service may process audio. LicenseQuest does not save audio recordings or send them to the developer. Confirmed region selections become local collection entries. Touch controls work without speech permission.
+On iOS, tapping Voice/Talk requests microphone and speech permission; on-device recognition is requested where supported, otherwise Apple’s speech service may process audio. On Android, Voice opens the device’s speech-recognition provider. Offline recognition is requested, but the provider may process audio online according to its settings and availability. LicenseQuest does not save audio recordings or send them to the developer. Confirmed region selections become local collection entries. Touch controls work without speech permission.
 
-Optional vehicle link
-Bluetooth permission enables a connection to a BLE vehicle adapter you select. Adapter configuration, live vehicle telemetry and trip distance are processed locally. LicenseQuest does not upload vehicle telemetry to the developer. Compatibility depends on the adapter and vehicle.
+Earlier vehicle records
+Version 1.1 on iOS and Android uses GPS mileage and no longer requests Bluetooth access. Historical trip distance records remain on your device; the update does not convert old distances into new mileage points.
+
+Collectible artwork
+Crew artwork and plate unlocks are stored locally. Sharing an unlocked image uses the system share sheet and sends only the content you choose to your selected destination.
 
 Optional weather
-When radar is enabled, the app requests weather images from Environment and Climate Change Canada's GeoMet service. The service receives your IP address and the requested map bounds and times. Bounds can reflect your selected home, trip start or explored area. The app caches weather data on your device and does not attach an account or advertising identifier. Weather and Apple services operate under their own privacy policies.
+When radar is enabled, the app requests weather images from Environment and Climate Change Canada's GeoMet service. The service receives your IP address and the requested map bounds and times. Bounds can reflect your selected home, trip start or explored area. The app caches weather data on your device and does not attach an account or advertising identifier. Weather, geocoding and speech providers operate under their own privacy policies. These optional requests are not tied to a LicenseQuest account because the app has no accounts.
 
 Support
 If you email support, we receive the email address, message and any attachments you choose to send and use them to answer your request. Avoid sending private location or vehicle details unless needed. Request removal of support correspondence by emailing the same address, subject to necessary record retention.
